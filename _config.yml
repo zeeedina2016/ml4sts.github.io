@@ -14,7 +14,7 @@ footer_text: >
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
-
+theme-color: #3d85c6
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
@@ -56,7 +56,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: news  # your blog must have a name for it to show up in the nav bar
+blog_name:   # your blog must have a name for it to show up in the nav bar
 blog_description: lab news
 permalink: /blog/:year/:title/
 
