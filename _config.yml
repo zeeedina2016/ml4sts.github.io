@@ -14,7 +14,8 @@ footer_text: >
 url: ml4sts.com # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
-theme-color: #3d85c6
+theme-color: 3d85c6
+permalink: pretty
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
