@@ -2,7 +2,7 @@
 layout: page
 title: Wiggum
 description: Simpson's paradox inspired Fairness Forensics
-img: /assets/img/12.jpg
+img: /img/fairness_forensics.png
 redirect: https://fairnessforensics.github.io/wiggum
 importance: 1
 ---

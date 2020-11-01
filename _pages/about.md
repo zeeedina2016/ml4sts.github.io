@@ -6,11 +6,12 @@ description: Machine Learning for Socio-Technical Systems Lab at University of R
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: img/logo.png
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>lab: 107 Tyler Hall</p>
+    <p>office: 134 Tyler Hall</p>
+    <p>9 Greenhouse Lane</p>
+    <p>Kingston, RI 02881</p>
 
 news: true
 social: true
@@ -20,6 +21,8 @@ Write your biography here. Tell the world about yourself. Link to your favorite 
 
 We study how ML works for science technology and society, This means we apply data science using ML models to understand the world with other scientists, study and evaluate those ML systems directly and build tools to help them intervene.  Most of our work right now focuses on building more fair AI and some includes collaboration with other scientists.
 
-<!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<!--
+Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+-->
