@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /about/
+permalink: ./
 description: Machine Learning for Socio-Technical Systems Lab at University of Rhode Island
 
 profile:
