@@ -10,5 +10,6 @@ group :jekyll_plugins do
   gem "jekyll-email-protect"
   gem "jekyll-paginate-v2"
   gem "jekyll-scholar"
+  gem "bibtex-ruby", ">= 5.1.0"
   gem "jemoji"
 end
